@@ -1,0 +1,1 @@
+export { scansDescription } from './scans';
