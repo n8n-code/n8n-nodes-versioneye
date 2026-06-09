@@ -55,7 +55,7 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Scans | GET Retrieves all scans, GET Retrieves a file object, containing information about dependencies in the file |
+| Scans | Get retrieves all scans, Get retrieves a file object containing information about dependencies in the file |
 
 ---
 
